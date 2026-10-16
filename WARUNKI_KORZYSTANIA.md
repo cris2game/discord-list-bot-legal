@@ -5,8 +5,8 @@
 
 ## 1. Informacje ogólne
 
-1. Niniejsze Warunki określają zasady korzystania z bota Discord **Discord List Bot** („Bot”), służącego do tworzenia, publikowania i zarządzania interaktywnymi listami na serwerach Discord.
-2. Operatorem Bota jest **krzysiu5573**.
+1. Niniejsze Warunki określają zasady korzystania z bota Discord **Discord List Bot**, służącego do tworzenia, publikowania i zarządzania interaktywnymi listami na serwerach Discord.
+2. Operatorem Bota jest **cris2game**.
 3. Dodanie Bota do serwera, korzystanie z jego komend lub interakcja z opublikowanymi listami oznacza korzystanie z usługi na zasadach opisanych w tym dokumencie.
 4. Korzystanie z Bota wymaga posiadania konta Discord i podlega również warunkom korzystania z platformy Discord.
 
@@ -64,8 +64,8 @@ Operator może ograniczyć dostępność Bota lub usunąć go z serwera, jeśli 
 
 ## 9. Prywatność
 
-Informacje o danych przetwarzanych przez Bota, celach i zasadach ich przechowywania znajdują się w dokumencie **Polityka prywatności — Discord List Bot**: **[link do polityki prywatności]**.
+Informacje o danych przetwarzanych przez Bota, celach i zasadach ich przechowywania znajdują się w dokumencie **Polityka prywatności — Discord List Bot**: **https://github.com/cris2game/discord-list-bot-legal/blob/main/POLITYKA_PRYWATNOSCI.md**.
 
 ## 10. Zmiany Warunków
 
-Operator może aktualizować niniejsze Warunki, np. w związku ze zmianą funkcji Bota, sposobu działania lub wymogów prawnych. Aktualna wersja będzie dostępna pod adresem **[link do Warunków]**. Data aktualizacji jest wskazana na początku dokumentu.
+Operator może aktualizować niniejsze Warunki, np. w związku ze zmianą funkcji Bota, sposobu działania lub wymogów prawnych. Aktualna wersja będzie dostępna pod adresem **https://github.com/cris2game/discord-list-bot-legal/blob/main/WARUNKI_KORZYSTANIA.md**. Data aktualizacji jest wskazana na początku dokumentu.

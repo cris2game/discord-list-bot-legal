@@ -5,11 +5,11 @@
 
 ## 1. Administrator danych i kontakt
 
-Administratorem danych osobowych przetwarzanych w związku z obsługą Discord List Bota jest **krzysiu5573** („Administrator”).
+Administratorem danych osobowych przetwarzanych w związku z obsługą Discord List Bota jest **cris2game** („Administrator”).
 
 ## 2. Zakres Polityki
 
-Polityka opisuje przetwarzanie danych w związku z korzystaniem z bota Discord **Discord List Bot** („Bot”), który pozwala tworzyć, publikować, edytować, odhaczać i usuwać listy na serwerach Discord.
+Polityka opisuje przetwarzanie danych w związku z korzystaniem z bota Discord **Discord List Bot**, który pozwala tworzyć, publikować, edytować, odhaczać i usuwać listy na serwerach Discord.
 
 Discord jest odrębną platformą, która przetwarza dane zgodnie z własnymi dokumentami i zasadami. Niniejsza Polityka dotyczy danych przetwarzanych przez Administratora za pośrednictwem instancji Bota, w zakresie opisanym poniżej.
 
@@ -64,4 +64,4 @@ Bot działa na platformie Discord. Użytkownicy powinni przestrzegać zasad Disc
 
 ## 10. Zmiany Polityki
 
-Polityka może być aktualizowana w przypadku zmian funkcjonalności Bota, infrastruktury lub obowiązujących przepisów. Aktualna wersja będzie publikowana pod adresem **[link do Polityki prywatności]**. Data ostatniej aktualizacji znajduje się na początku dokumentu.
+Polityka może być aktualizowana w przypadku zmian funkcjonalności Bota, infrastruktury lub obowiązujących przepisów. Aktualna wersja będzie publikowana pod adresem **https://github.com/cris2game/discord-list-bot-legal/blob/main/POLITYKA_PRYWATNOSCI.md**. Data ostatniej aktualizacji znajduje się na początku dokumentu.
